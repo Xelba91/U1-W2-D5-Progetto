@@ -37,9 +37,10 @@ b {
   padding: 0.2em 1em;
 }
 
-#logo {
+.logo {
   height: 50px;
 }
+
 /* navbar */
 .bg-navbar {
   background-color: #364856;
